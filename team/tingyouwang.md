@@ -22,5 +22,5 @@ Behind all the stuff that I’ve done there is a single idea and goal: to make a
 
 ### Education
 - PhD. Bioinformatics and Genomics, The University of Hong Kong, Hong Kong, China.
-- BMSc. Bioinformatics, China Agricultural University, Beijing, China.
+- MSc. Bioinformatics, China Agricultural University, Beijing, China.
 - BEng. Mechanical Design, Manufacturing and Automation, China Agricultural University, Beijing, China.
