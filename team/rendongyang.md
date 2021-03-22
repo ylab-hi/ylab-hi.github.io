@@ -3,7 +3,7 @@ layout: member
 title: Rendong Yang
 position: Principal Investigator
 handle: rendongyang
-email: yang@umn.edu
+email: yang4414@umn.edu
 twitter: cauyrd
 github: cauyrd
 scholar: PedJ-\_EAAAAJ
@@ -13,7 +13,7 @@ umn: rendong-yang
 ---
 
 ### Overview
-Dr. Yanng is currently an Assistant Professor at The Hormel Institute, University of Minnesota. The focus of Dr. Yang's research is bioinformatics, with an emphasis on genomic technologies. Dr. Yang has broad training in the computational sciences, honed during his undergraduate, graduate and postdoctoral years. As a doctoral student at China Agricultural University, Dr. Yang developed two statistical models, [ARSER](https://doi.org/10.1093/bioinformatics/btq189) and [LSPR](https://doi.org/10.1093/bioinformatics/btr041), to detect periodically expressed transcripts from evenly or unevenly sampled temporal microarray gene expression profiles, respectively. ARSER is currently one of the most widely used algorithm in circadian rhythm field for rhythmic gene expression analysis. 
+Dr. Yang is currently an Assistant Professor at The Hormel Institute, University of Minnesota. The focus of Dr. Yang's research is bioinformatics, with an emphasis on genomic technologies. Dr. Yang has broad training in the computational sciences, honed during his undergraduate, graduate and postdoctoral years. As a doctoral student at China Agricultural University, Dr. Yang developed two statistical models, [ARSER](https://doi.org/10.1093/bioinformatics/btq189) and [LSPR](https://doi.org/10.1093/bioinformatics/btr041), to detect periodically expressed transcripts from evenly or unevenly sampled temporal microarray gene expression profiles, respectively. ARSER is currently one of the most widely used algorithm in circadian rhythm field for rhythmic gene expression analysis. 
 
 Dr. Yang's research on genomics in human diseases started when he did his postdoctoral training with Drs. [Zhaohui Qin](http://steveqinlab.org/) and [Tianwei Yu](https://mypage.cuhk.edu.cn/academics/yutianwei/) in the Department of Biostatistics and Bioinformatics at Emory University. In this position, Dr. Yang was the collaborative interface between Dr. Qin’s lab and [Dr. Arul Chinnaiyan’s lab](https://www.pathology.med.umich.edu/mctp) at the University of Michigan, driving the bioinformatics analyses for high-profile prostate cancer publications ([Asangani et al., Nature, 2014](https://doi.org/10.1038/nature13229); [Cao et al., Nature communications, 2014](https://doi.org/10.1038/ncomms4127)). 
 
