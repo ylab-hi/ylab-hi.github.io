@@ -1,32 +1,56 @@
-- date: Feb 11 2021
-  headline: "New paper! <a href='https://elifesciences.org/articles/61408'>Young et al. 2021</a> published in eLife on 3D atlas construction, applied to the Allen Developing Mouse Brain Atlas."
+- date: Mar 17th 2021
+  headline: "Tingyou's splicing paper was accepted to <b>Molecular Cell</b>, Cheers!"
 
-- date: Sept 27 2020
-  headline: "New paper! <a href='https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpns.104'>Young et al. 2020</a> published in Current Protocols in Neuroscience on using <a href='https://github.com/sanderslab/magellanmapper'>MagellanMapper</a> for image analysis."
+- date: Sep 1st 2020
+  headline: "New Member! Yangyang Li joins the lab as a PhD student from the UMN <a href='https://r.umn.edu/academics-research/graduate/bicb'>BICB program</a>. Welcome!"
 
-- date: Dec 13th 2018
-  headline: "New paper! <a href='http://science.sciencemag.org/content/362/6420/eaat6576.long'> An et al. 2018 </a> published in Science, highlights the role of promoters in autism."
+- date: Aug 27th 2020
+  headline: "New paper! <a href='https://doi.org/10.1093/gigascience/giaa089'>Wang et al. 2020</a> published in <b>GigaScience</b> on ITD detection in cancer."
 
-- date: Dec 1st 2018
-  headline: "Our work with the Autism Sequencing Consortium identifies 99 autism genes, paper submitted to <a href='https://www.biorxiv.org/content/early/2018/12/01/484113'> BioRxiv </a>."
+- date: Aug 4th 2020
+  headline: "New grant! We received a pilot grant from <a href='https://www.facebook.com/BowlingfortheBattle'>Bowling for the Battle funds</a> to support our prostate cancer research."
 
-- date: May 29th 2018
-  headline: "Donna presents the lab’s recent work, <a href='https://youtu.be/zR608Q20jn8'>'Analytical Framework for WGS and its Implications for ASD'</a> at the PGC Statistical Genetics Group online meeting."
+- date: Jan 14th 2020
+  headline: "Rendong is invitated to be a keynote speaker at the 12th BICB research symposium for a presentation entitled 'Computational detection of novel driver alterations in prostate cancer'."
 
-- date: May 9th 2018
-  headline: "Stephan, Donna, Brooke and Joon travel to Rotterdam, Netherlands, to share our latest work at <a href='http://www.autism-insar.org/page/2018AnnMtg'>INSAR 2018</a>."
+- date: Jan 1st 2020
+  headline: "Congratulations to Tingyou on winning an <a href='https://eaglescancertelethon.org/'>Eagles Telethon</a> Postdoctoral Fellowship!"
 
-- date: May 7th 2018
-  headline: "Donna and Joon’s latest works highlighted in <a href='https://autismsciencefoundation.org/news/wild-new-genetic-hot-spots/'>Autism Science Foundation Podcast</a>."
+- date: Dec 3rd 2019
+  headline: "New grant! We received a grant from <a href='https://karlpotachfoundation.com/'>The Karl R. Potach Founndation</a> to study WT1 alternative splicing events."
 
-- date: April 27th 2018
-  headline: "New paper! <a href='https://www.nature.com/articles/s41588-018-0107-y'> Werling et al. 2018 </a> published in Nature Genetics in collaboration with the Autism Sequencing Consortium."
+- date: Jun 27th 2019
+  headline: "New federal grant! We receive a idea development award from Departmennt of Defense for prostate cancer research. See <a href='https://www.austindailyherald.com/2019/06/major-prostate-cancer-research-grant-awarded-to-institutes-dr-rendong-yang/'>media release</a>."
 
-- date: April 12th 2017
-  headline: "Stephan with Kevin Bender (UCSF) talk about <a href='https://youtu.be/zzP3DZcViyY'>'The genetics and physiology of SCN2A in autism and early-onset seizures'</a> at the Simons VIP Connect."
+- date: Jun 6th 2019
+  headline: "New grant! We receive a American Cancer Society Institutional Research Grant to support our pan-cancer alternative splicing study."
 
-- date: Nov 30th 2016
-  headline: "Donna talks about <a href='https://youtu.be/M332bqmYI2Q'>'The Role of Sex-Differential Biology in Risk for Autism Spectrum Disorder'</a> at the SFARI Webinar Series."
+- date: Apr 17th 2019
+  headline: "Congratulations to Tingyou being selected one of the three finalist for <a href='https://www.msi.umn.edu/research/2019-research-exhibition'>Minnesota Supercomputing Institute Research Symposium </a>."
+  
+- date: Mar 29th 2019
+  headline: "Rendong is invited for an oral presentation at <a href='http://mcbios2019.mcbios.com/'>MCBIOS 2019</a> for the work on detecting DNA and RNA alterations in human cancers."
 
-- date: April 21th 2016
-  headline: "Stephan talks about <a href='https://youtu.be/lSH6-2mIdh4'>'The Genetics of Autism'</a> at the University of California Television."
+- date: Mar 19th 2019
+  headline: "New paper! <a href='https://doi.org/10.1093/bioinformatics/btz193'>Wang et al. 2019</a> published in <b>Bioinformatics</b> on neoantigen detection."
+
+- date: Sep 28th 2018
+  headline: "Rendong received a travel fellowship to attend the <a href='http://fab2018.cbd.cmu.edu/'>Workshop on the Future of Algorithms in Biology 2018</a> at CMU."
+
+- date: Aug 4th 2018
+  headline: "New grant! We received a pilot grant from the Hormel Institute for prostate cancer research."
+
+- date: Jul 9th 2018
+  headline: "New grant! Rendong attented <a href='https://www.iscb.org/ismb2018'>ISMB 2018</a> to receive a research starter grant in informatics from <a href='http://www.phrmafoundation.org/'>the PhRMA foundation</a>."
+
+- date: Apr 28th 2018
+  headline: "New paper! <a href='https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4671-4'>Yang et al. 2018</a> published in <b>BMC Genomics</b> describing a new tools for indel calling from RNA-seq data."
+
+- date: Mar 15th 2018
+  headline: "New member! Dr. Ting-you Wang joins the lab as a postdoc from The University of Hong Kong. Welcome onboard!"
+
+- date: Dec 4th 2017
+  headline: "Rendong joins UMN bioinformatics and computational biology program (BICB) to be a graduate faculty."
+  
+- date: July 31th 2017
+  headline: "Yang lab officially opened at the Hormel Institute, University of Minnnesota."

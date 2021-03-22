@@ -1,47 +1,40 @@
 ---
-title: "Sanders Lab - Home"
+title: "Yang Lab - Home"
 layout: homelay
-excerpt: "Sanders Lab at UCSF."
+excerpt: "Yang Lab at UMN."
 sitemap: false
 permalink: /
 ---
 
-# Welcome to Sanders Lab at UCSF
+# Welcome to Yang Lab at UMN
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v6c.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v1.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
 
 
-The Sanders Lab aims to identify the etiology of developmental disorders through the discovery of genetic risk factors. Over the past few years there has been rapid progress in identifying the genes that play a role in autism spectrum disorder (ASD). We aim to continue this progress, leverage these findings to build a more complete understanding of ASD, and to extend this approach to other human disorders, including congenital malformations.
+The Yang Lab is interested in the integrative analysis of large-scale datasets to understand the initiation and progression of diseases. The research projects involve in the development of highly accurate and sensitive computational methods for analyzing multidimensional omics data, especially in the area of detecting and analyzing genetic and transcriptomic alterations using second and third generation sequencing data. The long-term goal is to elucidate the genetic mechanisms of human diseases, such as cancer. Example projects span from technique-driven research that aims to develop algorithms for a wide range of applications to hypothesis-driven investigation of specific biological problems to fill the knowledge gap for a deeper understanding of biological systems.
 
+There are four main areas of research:
 
-There are five main areas of research:
-
-1. **Gene discovery**: Genomic analysis of DNA using high-throughput sequencing to identify genes associated with human disorders
-2. **Understanding the noncoding genome**: Using whole-genome sequencing to identify the elements of the noncoding genome that contribute to ASD
-3. **The role of SCN2A in human disorders**: SCN2A mutations are one of the most common causes of ASD; we aim to understand how this risk is mediated with the view to developing therapeutics
-4. **Understanding neurodevelopment**: Leveraging functional genomic data to understand physiological brain development and the pathology associated with neuropsychiatric disorders
-5. **Sex bias in ASD**: Identifying genes and gene networks that lead to the preponderance of males diagnosed with ASD
+1. **Genomic alterations detection**: Genomic analysis of DNA using high-throughput sequencing to identify genetic alterations associated with human disorders
+2. **Transcriptomic mis-splicing events discovery**: Using short and long RNA sequencing to identify non-canonical splicing events that contribute to cancers
+3. **Understanding lncRNA biology**: LncRNAs are pooly annotated compared to coding genes; we aims to identify the disease-causing lncRNAs and their underlying mechanisms
+4. **Tumor neoantigens and immunotherapy**: Leveraging multi-omics data to identify neoantigens that are potential predictive biomarkers for a response to cancer immunotherapy
 
 ### Technologies and methods
-The Sanders Lab is primarily a bioinformatic group that uses a wide range of genomic, bioinformatic, and statistical methods including: whole-exome sequencing, whole-genome sequencing, de novo mutation detection, RNA-Seq, and ChIP-Seq.
+The Yang Lab is primarily a bioinformatic group that uses a wide range of genomic, bioinformatic, and statistical methods including: whole-exome sequencing, whole-genome sequencing, RNA-Seq, ChIP-Seq, and third-generation sequencing (PacBio and ONT).
 
-### Collaborators
-We work with closely with numerous collaborators, including the [State Lab](https://www.mstatelab.com/) and [Bender Lab](https://benderlab.ucsf.edu/lab-members) at UCSF, the [Devlin Lab](http://www.psychiatry.pitt.edu/person/bernard-j-devlin-phd) at UPMC, the [Roeder Lab](http://www.stat.cmu.edu/~roeder/) at Carnegie Mellon, the [Sestan Lab](http://medicine.yale.edu/lab/sestan/index.aspx), and the [Talkowski lab](http://talkowski.mgh.harvard.edu/) at Harvard.
-
-### Joining Sanders Lab
+### Joining Yang Lab
 If you are interested in joining please go to the [recruitment](recruitment) page.
 
 ### Funding
-We are grateful for funding from the [National Institute of Mental Health](https://www.nimh.nih.gov/) and the [The Simons Foundation Autism Research Initiative](https://www.sfari.org/), the [Autism Science Foundation](https://autismsciencefoundation.org/), and the [Brain & Behavior Research Foundation](https://www.bbrfoundation.org/).
+We are grateful for funding from the [US Department of Defense](https://cdmrp.army.mil/default), the [Prostate Cancer Foundation](https://www.pcf.org/), the [PhRMA Foundation](http://www.phrmafoundation.org/), the [Chrodoma Foundation](https://www.chordomafoundation.org/), [American Cancer Society](https://www.cancer.org/), and the [Karl R. Potach](https://karlpotachfoundation.com/).
 
 <figure class="third">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIMH.png" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SFARI.png" style="width: 200px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CDMRP.jpeg" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_PCF.jpg" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_PHRMA.png" style="width: 200px">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ASF.jpeg" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BBRF.png" style="width: 200px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Chrod.png" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ACS.png" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_KRP.png" style="width: 200px">
 </figure>
-
-
 
 
 
