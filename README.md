@@ -18,7 +18,7 @@ bundle install
 sh start.sh
 #after confirmation of the changes you want
 bundle exec jekyll build
-git commit "update" && git push
+git commit -am "update" && git push
 sh script/deploy
 #Note it might take a few minutes for github.io to update, be patient
 ```

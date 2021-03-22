@@ -26,11 +26,11 @@ bundle install
 sh start.sh
 #after confirmation of the changes you want
 bundle exec jekyll build
-git commit "update" && git push
+git commit -am "update" && git push
 sh script/deploy
 #Note it might take a few minutes for github.io to update, be patient
 ```
 
-The website is deployed using [GitHub Pages](https://ylab_hi.github.io) and the source code is available on [GitHub](https://github.com/ylab_hi). Please feel free to reuse this code (making sure to cite the Sanders lab, Bedford lab and Drummond lab as the original sources of the lab website template).
+The website is deployed using [GitHub Pages](https://ylab-hi.github.io) and the source code is available on [GitHub](https://github.com/ylab-hi). Please feel free to reuse this code (making sure to cite the Sanders lab, Bedford lab and Drummond lab as the original sources of the lab website template).
 
 
