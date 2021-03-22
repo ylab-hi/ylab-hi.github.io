@@ -24,4 +24,4 @@ The Yang Lab at UMN has been supported by continuous extramural funding from nat
 ### Education
 - Postdoctoral Research Associate, Emory University (2011-2014)
 - PhD in Bioinformatics, China Agricultural University (2006-2011)
-- BS in Computer Science, China Agricultural University (2002-2006)
+- BSc in Computer Science, China Agricultural University (2002-2006)
