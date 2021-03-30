@@ -12,7 +12,7 @@ permalink: /contact/
 
 Yang Lab is in The Hormel Institute, Uninversity of Minnesota ([Google Map](https://tinyurl.com/588v5a4k)):
 
-Room 2212, Floor 2, Medical Research Buildinng,
+Room 2212, Floor 2, Medical Research Building,
 801 16th AVE NE,
 Austin
 MN 55912
