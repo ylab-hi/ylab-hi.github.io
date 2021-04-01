@@ -76,5 +76,6 @@ ARSER is a Python package for identifying periodic expression profiles in analyz
 
 - <a href="https://github.com/cauyrd/ARSER"><i class='fab fa-github'></i> Source</a>
 - <a href="https://doi.org/10.1093/bioinformatics/btq189"><i class='fa fa-book'></i> Paper</a>
+- <a href="https://www.youtube.com/watch?v=qrqwtOBlpPM&t=245s&ab_channel=ISCB"><i class="fab fa-youtube"></i> ISMB 2010 Proceeding Talk</a>
 
 ---

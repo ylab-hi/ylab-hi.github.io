@@ -20,10 +20,17 @@ MN 55912
 <img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/building.jpg" style="width: 600px">
 
  
-### Email, Twitter, and UMN profile
+### Questions or Comments
 
-**Email:** <yang4414@umn.edu>
+<a href="mailto:yang4414@umn.edu"><i class="fas fa-envelope"></i> yang4414@umn.edu</a>
+
+<a href="https://twitter.com/cauyrd"><i class="fab fa-twitter-square"></i> @cauyrd</a>
+
+<a href="https://www.hi.umn.edu/portfolio-items/rendong-yang/"><i class="fas fa-university"></i> UMN Page</a>
+
+<!--**Email:** <yang4414@umn.edu>
 
 **Twitter:** [@cauyrd](https://twitter.com/cauyrd?lang=en)
 
 **UMN page:** [Computational Cancer Genomics group](https://www.hi.umn.edu/portfolio-items/rendong-yang/)
+-->
