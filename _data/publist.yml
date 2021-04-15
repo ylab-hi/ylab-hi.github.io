@@ -1,3 +1,13 @@
+- title: "A pan-cancer transcriptome analysis of exitron splicing identifies novel cancer driver genes and neoepitopes"
+  image: Wang2021.jpg
+  description: 
+  authors: 
+  link:
+    url: https://www.cell.com/molecular-cell/fulltext/S1097-2765(21)00223-9
+    display: Wang et al. Molecular Cell (2021)
+  highlight: 1
+  news2: news
+
 - title: "ScanITD: Detecting internal tandem duplication with robust variant allele frequency estimation"
   image: Wang2020.png
   description: 
@@ -95,5 +105,15 @@
   link:
     url: https://doi.org/10.1186/s13073-015-0251-2
     display:  Yang et al. Genome Medicine (2015)
+  highlight: 1
+  news2: 
+
+- title: "Therapeutic targeting of BET bromodomain proteins in castration-resistant prostate cancer"
+  image: nat2014.png
+  description: 
+  authors: 
+  link:
+    url: https://doi.org/10.1038/nature13229
+    display:  Asangani et al. Nature (2014)
   highlight: 1
   news2: 
