@@ -10,6 +10,19 @@ permalink: /code/
 
 ---
 
+## [ScanExitron](https://github.com/ylab-hi/ScanExitron)
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/codepic/scanexitron.png" style="width: 300px"> 
+
+ScanITD is a computational workflow for exitron splicing identification from RNA-seq.
+
+- <a href="https://github.com/ylab-hi/ScanExitron"><i class='fab fa-github'></i> Source</a>
+- <a href="https://doi.org/10.1016/j.molcel.2021.03.028"><i class='fa fa-book'></i> Paper</a>
+- <a href="https://data.mendeley.com/datasets/vdkpfzjjvg/1"><i class='fas fa-database'></i> Detected exitrons in TCGA</a>
+
+---
+
 ## [ScanITD](https://github.com/ylab-hi/ScanITD)
 
 
