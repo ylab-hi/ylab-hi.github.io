@@ -10,6 +10,17 @@ permalink: /code/
 
 ---
 
+## [LncGSEA](https://github.com/ylab-hi/lncGSEA)
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/codepic/lncgsea.png" style="width: 300px"> 
+
+LncGSEA is a convenient tool to predict the lncRNA associated pathways through Gene Set Enrichment Analysis (GSEA) of gene expression profiles from large-scale cancer patient samples.
+
+- <a href="https://github.com/ylab-hi/lncGSEA"><i class='fab fa-github'></i> Source</a>
+- <a href="https://doi.org/10.1186/s12864-021-07900-y"><i class='fa fa-book'></i> Paper</a>
+
+---
 ## [ScanExitron](https://github.com/ylab-hi/ScanExitron)
 
 
