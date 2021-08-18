@@ -18,7 +18,7 @@ There are four main areas of research:
 
 1. **Genomic alterations detection**: Genomic analysis of DNA using high-throughput sequencing to identify genetic alterations associated with human disorders
 2. **Transcriptomic mis-splicing events discovery**: Using short and long RNA sequencing to identify non-canonical splicing events that contribute to cancers
-3. **Understanding lncRNA biology**: LncRNAs are pooly annotated compared to coding genes; we aims to identify the disease-causing lncRNAs and their underlying mechanisms
+3. **Understanding lncRNA biology**: Long noncoding RNAs (lncRNAs) are poorly annotated compared to coding genes; we aim to identify the disease-causing lncRNAs and their underlying mechanisms
 4. **Tumor neoantigens and immunotherapy**: Leveraging multi-omics data to identify neoantigens that are potential predictive biomarkers for a response to cancer immunotherapy
 
 ### Technologies and methods
