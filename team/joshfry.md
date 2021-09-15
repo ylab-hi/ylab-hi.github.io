@@ -18,5 +18,5 @@ Before joining the BICB program I completed an advanced graduate degree in philo
 
 ### Education
 - Ph.D., Philosophy, University of Pittsburgh
-- B.S., Philosophy, University of Chicago
+- B.A., Philosophy, University of Chicago
 
