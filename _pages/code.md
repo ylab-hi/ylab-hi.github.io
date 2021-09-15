@@ -30,6 +30,7 @@ ScanExitron is a computational workflow for exitron splicing identification from
 
 - <a href="https://github.com/ylab-hi/ScanExitron"><i class='fab fa-github'></i> Source</a>
 - <a href="https://doi.org/10.1016/j.molcel.2021.03.028"><i class='fa fa-book'></i> Paper</a>
+- <a href="https://star-protocols.cell.com/protocols/977"><i class='fa fa-book'></i> Protocol</a>
 - <a href="https://data.mendeley.com/datasets/vdkpfzjjvg/1"><i class='fas fa-database'></i> Detected exitrons in TCGA</a>
 
 ---

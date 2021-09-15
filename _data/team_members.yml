@@ -28,6 +28,12 @@
   url: xiaotonglu
   group: 2
 
+- name: Joshua Fry 
+  photo: joshfry.png
+  info: Master student (Bioinformatics and Computational Biology) from 2021
+  url: joshfry
+  group: 2
+
 - name: Luke VonEschen
   photo: 
   info: Undergraduate Summer Intern
