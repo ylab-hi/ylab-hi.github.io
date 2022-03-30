@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-# Welcome to Yang Lab at UMN
+# Welcome to Yang Lab at UMN (soon move to Northwestern Univ.)
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v1.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
