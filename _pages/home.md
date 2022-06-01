@@ -28,12 +28,12 @@ The Yang Lab is primarily a bioinformatic group that uses a wide range of genomi
 If you are interested in joining please go to the [recruitment](recruitment) page.
 
 ### Funding
-We are grateful for funding from the [NIH/NIGMS](https://nigms.nih.gov/), the [US Department of Defense](https://cdmrp.army.mil/default), the [Prostate Cancer Foundation](https://www.pcf.org/), the [PhRMA Foundation](http://www.phrmafoundation.org/), the [Chrodoma Foundation](https://www.chordomafoundation.org/), and the [American Cancer Society](https://www.cancer.org/).
+We are grateful for funding from the [NIH/NCI](https://www.cancer.gov/), [NIH/NIGMS](https://nigms.nih.gov/), the [US Department of Defense](https://cdmrp.army.mil/default), the [Prostate Cancer Foundation](https://www.pcf.org/), the [PhRMA Foundation](http://www.phrmafoundation.org/), and the [Chrodoma Foundation](https://www.chordomafoundation.org/).
 
 <figure class="third">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_nigms.jpeg" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CDMRP.jpeg" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_PCF.jpg" style="width: 200px">	
+ <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_nci.png" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_nigms.jpeg" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CDMRP.jpeg" style="width: 200px">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_PHRMA.gif" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Chrod.png" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ACS.png" style="width: 200px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_PCF.jpg" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_PHRMA.gif" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Chrod.png" style="width: 200px">	
 </figure>
 
 
