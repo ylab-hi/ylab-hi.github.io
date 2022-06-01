@@ -24,6 +24,8 @@ There are four main areas of research:
 ### Technologies and methods
 The Yang Lab is primarily a bioinformatic group that uses a wide range of genomic, bioinformatic, and statistical methods including: whole-exome sequencing, whole-genome sequencing, RNA-Seq, ChIP-Seq, and third-generation sequencing (PacBio and ONT).
 
+Detailed technoical guide and lab documents can be found at the [Lab Guide](https://yanglab-guide.readthedocs.io/en/latest/) page.
+
 ### Joining Yang Lab
 If you are interested in joining please go to the [recruitment](recruitment) page.
 
