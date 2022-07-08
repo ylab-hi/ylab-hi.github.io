@@ -1,14 +1,14 @@
 ---
 layout: member
 title: Josh Fry 
-position: Master Student
+position: PhD Student
 handle: joshfry
 email: fryxx094@umn.edu
 twitter:
 github: jpfry327
 scholar: 
 photo: joshfry.png
-umn: 
+nu: 
 ---
 
 ### Overview

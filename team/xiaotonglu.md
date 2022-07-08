@@ -8,7 +8,7 @@ twitter:
 github: 
 scholar: 
 photo: XiaotongLu.jpg
-umn: 
+nu: 
 ---
 
 ### Overview

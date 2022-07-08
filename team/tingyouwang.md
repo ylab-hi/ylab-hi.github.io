@@ -1,15 +1,15 @@
 ---
 layout: member
 title: Tingyou Wang
-position: Postdoctoral Scholar
+position: Research Associate
 handle: tingyouwang
-email: tywang@umn.edu
+email: tywang@northwestern.edu
 twitter: dolittle007
 github: dolittle007
 scholar: 4ltlX04AAAAJ
 photo: tingyouwang.png
 linkedin: dolittle007
-umn: tingyou-wang
+nu:
 ---
 
 ### Overview

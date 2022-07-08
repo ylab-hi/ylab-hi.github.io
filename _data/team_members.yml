@@ -1,6 +1,6 @@
 - name: Rendong Yang
   photo: RendongYang.png
-  info: Assistant Professor
+  info: Associate Professor
   url: rendongyang
   group: 0
   
@@ -18,19 +18,19 @@
   
 - name: Yangyang Li
   photo: yangyangli.png
-  info: PhD candidate (Bioinformatics and Computational Biology) from 2020
+  info: PhD candidate (Driskill Graduate Program in Life Sciences of NU) from 2022
   url: yangyangli
   group: 2
 
 - name: Xiaotong Lu
   photo: XiaotongLu.jpg
-  info: PhD candidate (Bioinformatics and Computational Biology) from 2021
+  info: PhD candidate (Bioinformatics and Computational Biology of UMN) from 2021
   url: xiaotonglu
   group: 2
 
 - name: Joshua Fry 
   photo: joshfry.png
-  info: Master student (Bioinformatics and Computational Biology) from 2021
+  info: PhD candidate (Bioinformatics and Computational Biology of UMN) from 2022
   url: joshfry
   group: 2
 

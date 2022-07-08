@@ -3,7 +3,7 @@ layout: member
 title: Yangyang Li
 position: PhD Student
 handle: yangyangli
-email: li002252@umn.edu
+email: yangyang.li@northwestern.edu
 twitter:
 github: cauliyang
 scholar: 

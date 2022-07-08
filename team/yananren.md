@@ -1,15 +1,15 @@
 ---
 layout: member
 title: Yanan Ren
-position: Postdoctoral Scholar
+position: Research Associate
 handle: yananren
-email: renxx275@umn.edu
+email: yanan.ren@northwestern.edu
 twitter:
 github: ynren1020
 scholar: xHoUV7oAAAAJ
 linkedin: yanan-ren-98535a58
 photo: yananren.jpg
-umn: yanan-ren
+nu: 
 ---
 
 ### Overview

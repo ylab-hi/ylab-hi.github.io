@@ -1,12 +1,12 @@
 ---
 title: "Yang Lab - Home"
 layout: homelay
-excerpt: "Yang Lab at UMN."
+excerpt: "Yang Lab at Northwestern"
 sitemap: false
 permalink: /
 ---
 
-# Welcome to Yang Lab at UMN (soon move to Northwestern Univ.)
+# Welcome to Yang Lab at Northwestern
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v1.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
