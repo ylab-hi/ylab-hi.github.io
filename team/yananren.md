@@ -3,8 +3,8 @@ layout: member
 title: Yanan Ren
 position: Research Associate
 handle: yananren
-email: yanan.ren@northwestern.edu
-twitter:
+email: ynren1020@gmail.com
+twitter: yanan_ren
 github: ynren1020
 scholar: xHoUV7oAAAAJ
 linkedin: yanan-ren-98535a58

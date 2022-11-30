@@ -10,6 +10,17 @@ permalink: /code/
 
 ---
 
+## [ScanExitronLR](https://github.com/ylab-hi/ScanExitronLR)
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/codepic/scanexitronlr.png" style="width: 300px"> 
+
+LncGSEA is a computational workflow for exitron splicing identification in long-read RNA-seq data.
+
+- <a href="https://github.com/ylab-hi/ScanExitronLR"><i class='fab fa-github'></i> Source</a>
+- <a href="https://doi.org/10.1093/bioinformatics/btac626"><i class='fa fa-book'></i> Paper</a>
+
+---
 ## [LncGSEA](https://github.com/ylab-hi/lncGSEA)
 
 
