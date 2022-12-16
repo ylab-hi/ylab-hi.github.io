@@ -10,6 +10,12 @@ permalink: /photo/
 
 ---
 
+### 2022 Winter 
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/grouppic/2022.jpg" style="width: 600px">
+
+---
+
 ### 2021 Fall 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/grouppic/2021.jpg" style="width: 600px">
