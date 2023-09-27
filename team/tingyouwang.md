@@ -6,7 +6,7 @@ handle: tingyouwang
 email: tywang@northwestern.edu
 twitter: dolittle007
 github: dolittle007
-scholar: 4ltlX04AAAAJ
+scholar: FVx_uDIAAAAJ
 photo: tingyouwang.png
 linkedin: dolittle007
 nu:
