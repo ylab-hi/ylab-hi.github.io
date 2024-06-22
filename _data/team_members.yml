@@ -4,12 +4,6 @@
   url: rendongyang
   group: 0
   
-- name: Yanan Ren
-  photo: yananren.jpg
-  info: Start from 2017
-  url: yananren
-  group: 1
-
 - name: Tingyou Wang
   photo: tingyouwang.png
   info: Start from 2018
@@ -27,10 +21,23 @@
   info: Start from 2022
   url: richard
   group: 1
+
+- name: Jiawen Lu
+  photo: jiawenlu.jpg
+  info: Start from 2024
+  url: jiawenlu
+  group: 1
+
 - name: Yangyang Li
   photo: yangyangli.png
   info: PhD candidate (Driskill Graduate Program in Life Sciences of NU) from 2022
   url: yangyangli
+  group: 2
+
+- name: Abhi Ramakrishnan
+  photo: abhi.jpg
+  info: PhD candidate (Driskill Graduate Program in Life Sciences of NU) from 2024
+  url: abhi
   group: 2
 
 - name: Xiaotong Lu
@@ -91,4 +98,12 @@
   url: 
   group: 8
   year: 2023
+  current: Northwestern University
+
+- name: Zitong Lin
+  photo: 
+  info: DGP Rotation student 
+  url: 
+  group: 8
+  year: 2024
   current: Northwestern University
