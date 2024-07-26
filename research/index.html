@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Yang Lab - Research</title>
+	<meta name="description" content="Yang Lab -- Research">
+	<link rel="stylesheet" href="/css/main.css">
+	<link rel="canonical" href="/research/">
+	<link rel="shortcut icon" type ="image/x-icon" href="/images/favicon.ico">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	<link rel="stylesheet" href="/css/academicons/css/academicons.css">
+
+	
+</head>
+
+
+  <body>
+
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+	<div class="navbar-header">
+	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	  </button>
+	
+    <a class="navbar-brand" href="/">Yang Lab @ NU</a>
+	</div>
+
+	<div class="collapse navbar-collapse" id="navbar-collapse-1">
+	  <ul class="nav navbar-nav navbar-right">
+		<li><a href="/">Home</a></li>
+		<li><a href="/team">Team</a></li>
+		<li><a href="/research">Research</a></li>
+		<li><a href="/publications">Publications</a></li>
+		<li><a href="/code">Code</a></li>
+		<li><a href="/photo">Photos</a></li>
+		<li><a href="/contact">Contact</a></li>
+	  </ul>
+	</div>
+	
+  </div>
+</div>
+
+
+    <div class="container-fluid">
+      <div class="row">
+        <div id="textid" class="col-sm-12">
+  <h1 id="research-highlights">Research Highlights</h1>
+
+<hr />
+
+<p><img src="/images/respic/scanitd.png" alt="" style="width: 255px; float: left; margin-right: 30px; border: 10px" /></p>
+
+<h2 id="genomic-alterations-detection">Genomic alterations detection</h2>
+<div style="text-align: justify">
+  <p>We have developed multiple algorithms specilized in analyzing high-throughput sequencing data to detect DNA alterations including insertions and deletions (INDELs) and large-scale structural variations (SVs). We developed the ScanIndel algorithm to address the challenge of reliably detecting medium- and large-sized indels from whole-exome or whole-genome sequencing data. Our contributions for SV detection are highlighted by two algorithms developed in my group: <a href="https://github.com/cauyrd/SVfinder">SVfinder</a> and ScanITD. Application of these algorithms in cancer genomic data, we were able to detect diverse genomic rearrangement events involving androgen receptor (AR) in <a href="https://doi.org/10.1038/ncomms13668">prostate cancer</a> as well as a t(11;17) translocation event causing the SPI-ZNF287 gene fusion in <a href="https://doi.org/10.4137/CIN.S13783">multiple myeloma</a>.</p>
+
+  <p><strong>Reference</strong></p>
+
+  <ul>
+    <li>Wang TY, <strong>Yang R</strong>. ScanITD: Detecting internal tandem duplication with robust variant allele frequency estimation, <strong>GigaScience</strong>, Volume 9, Issue 8, August 2020, giaa089.</li>
+    <li><strong>Yang R</strong>, Nelson AC, Henzler C, Thyagarajan B, Silverstein KA. ScanIndel: a hybrid framework for indel detection via gapped alignment, split reads and de novo assembly. <strong>Genome Medicine</strong>. 2015 Dec;7(1):1-2.</li>
+  </ul>
+
+</div>
+
+<hr />
+
+<p><img src="/images/respic/exitron_splicing.png" alt="" style="width: 255px; float: left;margin-right: 30px; border: 10px" /></p>
+
+<h2 id="transcriptomic-mis-splicing-events-discovery">Transcriptomic mis-splicing events discovery</h2>
+<div style="text-align: justify">
+  <p>We were the first to discover a type of non-canonical splicing named “exitron” that result in internally deleted protein sequences from annotated coding exons in <a href="https://doi.org/10.1186/s12864-018-4671-4">prostate cancer</a>. Through integrated <a href="https://doi.org/10.1016/j.molcel.2021.03.028">Pan-Cancer analysis</a>, we observed exitron splicing contributes oncogenic phenotype and represents a source for a new set of neoantigens that are potentially targetable with immunotherapy. Moreover, we identified various types of RNA mis-splicing and alterations, such as <a href="https://doi.org/10.1158/1078-0432.CCR-17-0017">cryptic exon</a>, <a href="https://doi.org/10.1158/0008-5472.CAN-17-0320">alternative polyadenylation</a> and <a href="https://doi.org/10.1158/1078-0432.CCR-19-3023">non-linear splicing</a> in AR that contributed constitutive activity of the broad AR transcriptional program. These activities resulted from AR splicing variants are completely insensitive to all current prostate cancer targeted therapies, including the second-generation AR antagonist enzalutamide.</p>
+
+</div>
+
+<hr />
+
+<p><img src="/images/respic/egonet.png" alt="" style="width: 255px; float: left;margin-right: 30px; border: 10px" /></p>
+
+<h2 id="multi-omics-integrative-analysis">Multi-omics integrative analysis</h2>
+<div style="text-align: justify">
+  <p>A major goal of our research is to develop integrative computational tools that leverage multi-omics biological and clinical datasets to infer disease-associated genes, regulatory interactions and patient-specific therapeutic targets. Our contributions in this area include: 1) developing the EgoNet algorithm by integrating gene expression data and protein-protein interaction networks to identify gene markers that are associated with clinical phenotypes; 2) Constructing transcriptional regulatory networks of major transcriptional factors <a href="https://doi.org/10.1038/nature13229">AR, BRD4</a> and <a href="https://www.nature.com/articles/ni.3716">STAT5</a> with ChIP-seq and gene expression data that drive prostate cancer and leukemia and 3) Integrating transcriptomic and proteomic data to predict patient-specific tumor neoantigens for immunotherapy treatment.</p>
+
+  <p><strong>Reference</strong></p>
+
+  <ul>
+    <li>Wang TY, Wang L, Alam SK, Hoeppner LH, <strong>Yang R</strong>. ScanNeo: identifying indel derived neoantigens using RNA-Seq data. <strong>Bioinformatics</strong>. 2019 Mar 18.</li>
+    <li><strong>Yang R</strong>, Bai Y, Qin Z, Yu T. EgoNet: identification of human disease ego-network modules. <strong>BMC Genomics</strong>. 2014 Apr 28;15:314.</li>
+  </ul>
+</div>
+
+
+</div>
+
+      </div>
+    </div>
+
+    <div id="footer" class="panel">
+  <div class="panel-footer">
+	<div class="container-fluid">
+	  <div class="row">
+
+
+			<ul class="nav navbar-nav navbar-right">
+				<li><a href="https://www.feinberg.northwestern.edu/">Feinberg School of Medicine</a></li>
+				<li><a href="https://yanglab-guide.readthedocs.io/en/latest/">Lab Guide</a></li>
+				<li><a href="/about">About</a></li>
+				<li><a href="/recruitment">Recruitment</a></li>
+			</ul>
+
+		
+	  </div>
+	</div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+  </body>
+
+</html>
