@@ -22,12 +22,6 @@
   url: richard
   group: 1
 
-- name: Jiawen Lu
-  photo: jiawenlu.jpg
-  info: Start from 2024
-  url: jiawenlu
-  group: 1
-
 - name: Yangyang Li
   photo: yangyangli.png
   info: PhD candidate (Driskill Graduate Program in Life Sciences of NU) from 2022
@@ -107,3 +101,11 @@
   group: 8
   year: 2024
   current: Northwestern University
+
+- name: Jiawen Lu
+  photo: 
+  info: Postdoc
+  url: 
+  group: 8
+  year: 2024
+  current: Iowa State University
