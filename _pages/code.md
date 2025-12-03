@@ -10,6 +10,30 @@ permalink: /code/
 
 ---
 
+## [OctopusV](https://github.com/ylab-hi/OctopuSV)
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/codepic/octopusv.png" style="width: 150px"> 
+
+OctopuSV: Advanced structural variant analysis toolkit
+
+- <a href="https://github.com/ylab-hi/OctopuSV"><i class='fab fa-github'></i> Source</a>
+- <a href="https://doi.org/10.1093/bioinformatics/btaf599"><i class='fa fa-book'></i> Paper</a>
+
+---
+
+## [PxBLAT](https://github.com/ylab-hi/pxblat)
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/codepic/pxblat.png" style="width: 50px"> 
+
+An Efficient and Ergonomic Python Binding Library for BLAT
+
+- <a href="https://github.com/ylab-hi/pxblat"><i class='fab fa-github'></i> Source</a>
+- <a href="https://link.springer.com/article/10.1186/s12859-024-05844-0"><i class='fa fa-book'></i> Paper</a>
+
+---
+
 ## [ScanExitronLR](https://github.com/ylab-hi/ScanExitronLR)
 
 
