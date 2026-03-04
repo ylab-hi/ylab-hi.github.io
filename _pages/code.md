@@ -10,6 +10,18 @@ permalink: /code/
 
 ---
 
+## [DeepChopper](https://github.com/ylab-hi/DeepChopper)
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/codepic/deepchopper.jpg" style="width: 150px"> 
+
+DeepChopper: Genomic language model to identify chimera artifacts in long-read direct RNA sequencing data
+
+- <a href="https://ylab-hi.github.io/DeepChopper"><i class='fab fa-github'></i> Source</a>
+- <a href="https://www.nature.com/articles/s41467-026-68571-5"><i class='fa fa-book'></i> Paper</a>
+
+---
+
 ## [OctopusV](https://github.com/ylab-hi/OctopuSV)
 
 
