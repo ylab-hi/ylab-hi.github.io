@@ -1,3 +1,13 @@
+- title: "Tumor-specific lncRNA IGF1R-AS1 trans-regulates chromatin interactions associated with oncogenic MYC signaling"
+  image: nc2026.png
+  description: 
+  authors: 
+  link:
+    url: https://www.nature.com/articles/s41467-026-70814-4
+    display: Yang et al. Nature Communications (2026)
+  highlight: 1
+  news2: news
+
 - title: "Genomic language model mitigates chimera artifacts in nanopore direct RNA sequencing"
   image: nc2026.png
   description: 
@@ -85,15 +95,5 @@
   link:
     url: https://doi.org/10.1093/bioinformatics/btz193
     display:  Wang et al. Bioinformatics (2019)
-  highlight: 1
-  news2: 
-
-- title: "Indel detection from DNA and RNA sequencing data with transIndel"
-  image: Yang2018.jpg
-  description: 
-  authors: 
-  link:
-    url: https://doi.org/10.1186/s12864-018-4671-4
-    display:  Yang et al. BMC Genomics (2018)
   highlight: 1
   news2: 

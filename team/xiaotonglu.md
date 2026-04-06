@@ -12,8 +12,9 @@ nu:
 ---
 
 ### Overview
+I specialize in large-scale cancer genomic and transcriptomic data analysis, developing computational frameworks to detect cryptic splicing and regulatory alterations. My work transforms high-dimensional multi-omic data into reliable, interpretable insights that support translational research and precision oncology.
 
+I am driven to leverage advanced analytics and emerging technologies to advance precision medicine.
 ### Education
-- M.S., Nutrition and Food Hygiene, China Agricultural University, Beijing, China
-- B.E., Food Science and Engineering, Hainan University, Haikou, China
+- M.S., Biochemistry, Molecular Biology, and Biophysics, University of Minnesota
 
