@@ -10,6 +10,18 @@ permalink: /code/
 
 ---
 
+## [DirectClean](https://github.com/ylab-hi/DirectClean)
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/codepic/directclean.png" style="width: 150px"> 
+
+Artifact-aware preprocessing and read rescue for Oxford Nanopore direct-cDNA sequencing.
+
+- <a href="https://github.com/ylab-hi/DirectClean"><i class='fab fa-github'></i> Source</a>
+- <a href="https://doi.org/10.1093/nargab/lqag132"><i class='fa fa-book'></i> Paper</a>
+
+---
+
 ## [DeepChopper](https://github.com/ylab-hi/DeepChopper)
 
 
